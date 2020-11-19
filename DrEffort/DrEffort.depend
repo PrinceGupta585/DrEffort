@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1605727088 source:c:\users\er. prince\desktop\dreffort\jsongenerator.cpp
+	<fstream>
+	<string>
+	<iostream>
+	<Windows.h>
+	<wtsapi32.h>
+	<unistd.h>
+	<chrono>
+	<thread>
+	<unordered_map>
+	<utility>
+	<windows.h>
+	<Lmcons.h>
+	<fstream>
+	<iomanip>
+	"globalMap.h"
+
+1605723812 source:c:\users\er. prince\desktop\dreffort\user.cpp
+	<fstream>
+	<string>
+	"headers.h"
+
+1605765492 source:c:\users\er. prince\desktop\dreffort\main.cpp
+	"headers.h"
+
+1605723812 c:\users\er. prince\desktop\dreffort\globalmap.h
+	<string>
+	<iostream>
+	<unordered_map>
+
+1605724122 c:\users\er. prince\desktop\dreffort\headers.h
+	<fstream>
+	<string>
+	<iostream>
+	<Windows.h>
+	<wtsapi32.h>
+	<unistd.h>
+	<chrono>
+	<thread>
+	<unordered_map>
+	<utility>
+	<windows.h>
+	<Lmcons.h>
+	<fstream>
+	<iomanip>
+	"globalMap.h"
+
+1605724266 source:c:\users\er. prince\desktop\dreffort\lockdesktop.cpp
+	"headers.h"
+
+1605725145 source:c:\users\er. prince\desktop\dreffort\windowenumerator.cpp
+	"headers.h"
+
+1605724494 source:c:\users\er. prince\desktop\dreffort\printdata.cpp
+	"headers.h"
+
+1605724573 source:c:\users\er. prince\desktop\dreffort\mapfiller.cpp
+	"headers.h"
+
+1605762989 source:c:\users\er. prince\desktop\dreffort\datasaver.cpp
+	"headers.h"
+
+1605728364 source:c:\users\er. prince\desktop\dreffort\eventhandler.cpp
+	"headers.h"
+
